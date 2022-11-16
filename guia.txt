@@ -1,0 +1,67 @@
+1: Backend
+npm init --y
+npm install express --save
+npm install cors dotenv multer -S
+npm i express mysql nodemon
+npm i sequelize
+npm install bcrypt
+npm install express-session body-parser 
+npm install cookie-parser
+npm install argon2
+npm install connect-session-sequelize
+
+2: Frontend
+yarn add react-router-dom
+yarn add sass
+yarn add @mui/x-data-gridi
+yarn add @mui/x-data-grid-generator
+yarn add @mui/material @emotion/react @emotion/styled
+yarn add @mui/material @mui/styled-engine-sc styled-components
+yarn add next react react-dom
+yarn add react-select
+
+yarn add react-hook-form
+yarn add yup
+yarn add formik
+
+yarn add @material-ui/icons
+yarn add @reduxjs/toolkit
+yarn add react-redux
+yarn add @mui/x-date-pickers
+
+yarn add react-icons
+
+3: Testing
+yarn add @testing-library/react
+yarn add @testing-library/jest-dom
+
+Mysql
+sudo /opt/lampp/lampp start
+service mysql stop
+sudo /etc/init.d/apache2 stop
+
+yarn add primereact primeicons
+
+
+
+
+Neas
+id: 1
+fecha: 19-09-02
+usario: admin
+
+bienes:
+id: 1
+description: hierros
+
+Neas_pedidos:
+id_neas
+id_bienes
+cantidad: 1
+precioU: 12
+precioT: 431
+
+
+
+
+
